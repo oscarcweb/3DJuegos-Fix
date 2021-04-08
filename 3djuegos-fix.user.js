@@ -6,6 +6,7 @@
 // @icon        https://www.3djuegos.com/favicon_ios.png
 // @version     1.01
 // @homepageURL https://github.com/oscarcweb/3DJuegos-Fix
+// @downloadURL	https://github.com/oscarcweb/3DJuegos-Fix/raw/main/3djuegos-fix.user.js
 // @author      oscarcweb
 // @description Remplaza el reproductor de video de 3DJuegos por el nativo de html5, además detiene las retrasmisiones en directo
 // ==/UserScript==
