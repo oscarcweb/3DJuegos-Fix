@@ -4,7 +4,7 @@
 // @match       *://*3djuegos.com/*
 // @grant       none
 // @icon        https://www.3djuegos.com/favicon_ios.png
-// @version     1.0
+// @version     1.01
 // @homepageURL https://github.com/oscarcweb/3DJuegos-Fix
 // @author      oscarcweb
 // @description Remplaza el reproductor de video de 3DJuegos por el nativo de html5, además detiene las retrasmisiones en directo
@@ -49,5 +49,5 @@ function tresdjuegosfix_player() {
 
 }
 
-window.onload = () => { tresdjuegosfix_stream( 100 ); tresdjuegosfix_player() }
+window.onload = () => { tresdjuegosfix_stream( 500 ); tresdjuegosfix_player() }
 window.onscroll = () => { tresdjuegosfix_player() };
